@@ -4,7 +4,9 @@
 
 ## Prerequisites
 
- <!-- Steps to get project onto user's computer -->
+1. Create a [Github](https://github.com/) account
+2. Install the package manager [Homebrew](https://brew.sh/) and use it to install Git (version control system) onto your personal computer. Type the following command in your terminal:
+* ```brew install git```
 
 ## Installing
 
