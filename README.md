@@ -12,9 +12,10 @@
 
  2. Copy your fork's HTTP URL from the address bar in your browser (this is the address of your fork on Github's servers).
 
- 3. Clone your forked repository onto your personal computer. Type the following command in your terminal: ```git clone <URLFROMGITHUB>```
+ 3. Clone your forked repository onto your personal computer. Type the following command in your terminal:
+ * ```git clone <URLFROMGITHUB>```
 
- 4. Go into the folder for your local copy of the fork. Type the following command in your terminal: ```cd <FORKED REPOSITORY NAME>```
+ 4. Go into the folder for your local copy of the fork. Type the following command in your terminal: * ```cd <FORKED REPOSITORY NAME>```
 
  5. Add a remote connection to the original Github repository in order to pull in changes made to its master branch. Type the following command(s) in your terminal:
  * ```git remote add upstream https://github.com/Lorsolini1/all_about_me.git```
