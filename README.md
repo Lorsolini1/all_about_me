@@ -22,3 +22,16 @@ Install the package manager [Homebrew](https://brew.sh/) and use it to install G
  5. Add a remote connection to the original Github repository in order to pull in changes made to its master branch. Type the following command(s) in your terminal:
  * ```git remote add upstream https://github.com/Lorsolini1/all_about_me.git```
  * ```git pull```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Author
+
+* Loris Orsolini
+* Wyncode Academy
+
+## Acknowledgment
+
+Thank you to Wyncode Academy for their help in creating this project.
