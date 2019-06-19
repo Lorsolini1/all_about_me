@@ -23,10 +23,6 @@ Install the package manager [Homebrew](https://brew.sh/) and use it to install G
  * ```git remote add upstream https://github.com/Lorsolini1/all_about_me.git```
  * ```git pull```
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Author
 
 * Loris Orsolini
